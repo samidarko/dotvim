@@ -31,3 +31,15 @@
 [submodule "bundle/snipmate_for_django"]
 	path = bundle/snipmate_for_django
 	url = https://github.com/robhudson/snipmate_for_django.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "bundle/pytest"]
+	path = bundle/pytest
+	url = https://github.com/alfredodeza/pytest.vim.git
+[submodule "bundle/vim-align"]
+	path = bundle/vim-align
+	url = https://github.com/tsaleh/vim-align.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = https://github.com/tpope/vim-surround.git
